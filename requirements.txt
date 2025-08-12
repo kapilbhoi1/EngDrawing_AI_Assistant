@@ -1,0 +1,9 @@
+streamlit
+pymupdf
+pillow
+openai
+google-generativeai
+pytesseract
+opencv-python
+google-genai
+
